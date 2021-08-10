@@ -1,0 +1,19 @@
+.paragraph {
+    font-size: 13px;
+    font-family: sans-serif;
+}
+ul {
+    position: absolute;
+    right:0px;   
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+ }
+li {
+     display: inline;
+ }
+
+.google-logo-img {
+
+}
